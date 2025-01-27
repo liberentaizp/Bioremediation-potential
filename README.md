@@ -13,7 +13,7 @@ This pipeline describes the steps taken in the assignment of a bioremediation po
 
 Apart from bioremediation-related genes the pipeline can also be modified to retrieve other types of genes in different genomes, if the genomic sequences of said genes are available. 
 
-## Bioremediation potential prediction
+## ML approach of bioremediation potential prediction
 The prediction of the bioremediation potential of different *Pseudomona putida* strains is resumed in the Bioremediation_potential_prediction.ipnyb file. 
 The document contains a script with the steps we followed in order to explore the bioremediation potential data and genome metadata. The steps we have followed have been the following:
 - Data cleaning
