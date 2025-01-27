@@ -24,3 +24,9 @@ The document contains a script with the steps we followed in order to explore th
 - Supervised learning
   - XGBoost model
   - SHAP analysis
+
+ The metrics of the model are the following:
+ - MAE: 2.89
+ - MSE: 12.58
+ - MAPE: 0.12
+ - R2: 0.8
