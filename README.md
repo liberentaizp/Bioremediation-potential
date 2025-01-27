@@ -19,9 +19,9 @@ The document contains a script with the steps we followed in order to explore th
 - Data cleaning
 - Correlation analysis
 - Unsupervised learning
--   Dimensionality reduction (PCA)
--   PERMANOVA analysis
+  - Dimensionality reduction (PCA)
+  - PERMANOVA analysis
 - Supervised learning
--   XGBoost model
--   Hyperparameter tuning
--   SHAP analysis
+  - XGBoost model
+  - Hyperparameter tuning
+  - SHAP analysis
