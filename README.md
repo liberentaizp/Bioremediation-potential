@@ -23,5 +23,4 @@ The document contains a script with the steps we followed in order to explore th
   - PERMANOVA analysis
 - Supervised learning
   - XGBoost model
-  - Hyperparameter tuning
   - SHAP analysis
